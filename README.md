@@ -40,11 +40,4 @@ This project demonstrates a complete preprocessing pipeline on the Titanic datas
 - **Encoding categorical variables** allows machine learning algorithms to process non-numeric data.  
 - **Scaling** avoids bias towards features with large magnitudes.  
 - **Outlier removal** prevents extreme values from skewing the model.  
-- Together, these steps improve the quality of data and lead to more reliable ML models.
-
----
-
-## Next Steps
-- Split the dataset into **train/test sets**.  
-- Handle any **class imbalance** (e.g., Survived 0 vs 1) using SMOTE or class weights.  
-- Train and evaluate ML models (e.g., Logistic Regression, Random Forest, XGBoost).
+- Together, these steps improve the quality of data and lead to more reliable ML models..
